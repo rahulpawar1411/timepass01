@@ -1,0 +1,17 @@
+.Nav{
+    width: 300px;
+    background-color: white;
+    color: black;
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    padding: 12px;
+    border-radius: 20px;
+}
+.Nav a{
+     color: black;
+}
+.Nav a:hover{
+     color: rgb(70, 70, 70);
+}
